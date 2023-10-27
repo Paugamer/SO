@@ -81,3 +81,13 @@ D:\pause\Desktop\UPC\3r\SO\cliente\WindowsFormsApplication1\obj\Debug\clienteFor
 D:\pause\Desktop\UPC\3r\SO\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\pause\Desktop\UPC\3r\SO\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 D:\pause\Desktop\UPC\3r\SO\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.prueva.resources
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.AssemblyReference.cache
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\pause\Documents\GitHub\SO\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
